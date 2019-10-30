@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.wildwebdeveloper.runFirefoxDebug">
+    <stringAttribute key="" value="C:\tools\workspace\calc"/>
+    <stringAttribute key="args" value=""/>
+    <stringAttribute key="file" value="C:\tools\workspace\calc\WebContent\WEB-INF\index.html"/>
+    <booleanAttribute key="org.eclipse.lsp4e.debug.model.ATTR_CUSTOM_DEBUG_ADAPTER" value="false"/>
+    <booleanAttribute key="org.eclipse.lsp4e.debug.model.ATTR_CUSTOM_LAUNCH_PARAMS" value="false"/>
+    <stringAttribute key="org.eclipse.lsp4e.debug.model.ATTR_DSP_MODE" value="launch server"/>
+    <booleanAttribute key="org.eclipse.lsp4e.debug.model.ATTR_DSP_MONITOR_ADAPTER" value="false"/>
+    <stringAttribute key="org.eclipse.lsp4e.debug.model.ATTR_DSP_SERVER_HOST" value="127.0.0.1"/>
+    <intAttribute key="org.eclipse.lsp4e.debug.model.ATTR_DSP_SERVER_PORT" value="4711"/>
+    <booleanAttribute key="reloadOnChange" value="false"/>
+</launchConfiguration>
